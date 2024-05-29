@@ -5,9 +5,9 @@
 
 - 🔭 &nbsp; I’m currently learning Data Analytics and Python Frameworks
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Completed B.Tech as an Electrical Engineer.
 - 💼 &nbsp; PowerBI developer.
-- 🌱 &nbsp; Enthusiast in Cloud Computing and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in Cloud Computing, Artificial Intelligence and Robotics .
 - ✍️ &nbsp; Manchester United freak and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
