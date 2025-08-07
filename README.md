@@ -3,13 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Data Analytics and Python Frameworks.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick solutions.
-- 🎓 &nbsp; Completed B.Tech as an Electrical Engineer.
+- 🔭 &nbsp; Currently exploring Automations, Frameworks and Data Science.
+- 🤔 &nbsp; Exploring new technologies and developing software and quick solutions.
+- 🎓 &nbsp; Completed B.Tech. as an Electrical Engineer.
 - 💼 &nbsp; QA Analyst, Power BI and full stack dev.
 - 🌱 &nbsp; Enthusiast in Cloud Computing, Artificial Intelligence and Robotics .
 - ✍️ &nbsp; Manchester United freak and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 # 💻 Tech Stack:
